@@ -1,0 +1,14 @@
+15:47:32.626 INFO  SearchPage -Navigate to flights tab
+15:47:32.761 INFO  SearchPage -Origin text box element found
+15:47:36.409 INFO  SearchPage -Enter origin city as New York
+15:47:36.611 INFO  SearchPage -Destination text box element found
+15:47:40.887 INFO  SearchPage -Enter destination city as Chicago
+15:47:43.925 INFO  SearchPage -Enter departure date as 05/25/2020
+15:47:48.151 INFO  SearchPage -Enter return date as 05/31/2020
+15:52:01.034 INFO  SearchPage -Navigate to flights tab
+15:52:01.306 INFO  SearchPage -Origin text box element found
+15:52:05.877 INFO  SearchPage -Enter origin city as New York
+15:52:06.201 INFO  SearchPage -Destination text box element found
+15:52:09.212 INFO  SearchPage -Enter destination city as Chicago
+15:52:10.142 INFO  SearchPage -Enter departure date as 05/25/2020
+15:52:11.649 INFO  SearchPage -Enter return date as 05/31/2020

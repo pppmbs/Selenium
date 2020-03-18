@@ -1,0 +1,35 @@
+09:19:00.405 INFO  SearchPage -Navigate to flights tab
+09:19:00.521 INFO  SearchPage -Origin text box element found
+09:19:04.602 INFO  SearchPage -Enter origin city as New York
+09:19:06.804 INFO  SearchPage -Destination text box element found
+09:19:10.316 INFO  SearchPage -Enter destination city as Chicago
+09:19:11.314 INFO  SearchPage -Enter departure date as 05/25/2020
+09:19:13.085 INFO  SearchPage -Enter return date as 05/31/2020
+09:26:08.752 INFO  SearchPage -Navigate to flights tab
+09:26:08.880 INFO  SearchPage -Origin text box element found
+09:26:12.769 INFO  SearchPage -Enter origin city as New York
+09:26:13.500 INFO  SearchPage -Destination text box element found
+09:26:16.788 INFO  SearchPage -Enter destination city as Chicago
+09:26:17.458 INFO  SearchPage -Enter departure date as 05/25/2020
+09:26:18.549 INFO  SearchPage -Enter return date as 05/31/2020
+09:29:29.773 INFO  SearchPage -Navigate to flights tab
+09:29:30.027 INFO  SearchPage -Origin text box element found
+09:29:33.816 INFO  SearchPage -Enter origin city as New York
+09:29:33.890 INFO  SearchPage -Destination text box element found
+09:29:36.773 INFO  SearchPage -Enter destination city as Chicago
+09:29:37.552 INFO  SearchPage -Enter departure date as 05/25/2020
+09:29:38.566 INFO  SearchPage -Enter return date as 05/31/2020
+09:41:14.796 INFO  SearchPage -Navigate to flights tab
+09:41:15.196 INFO  SearchPage -Origin text box element found
+09:41:18.141 INFO  SearchPage -Enter origin city as New York
+09:41:18.200 INFO  SearchPage -Destination text box element found
+09:41:21.475 INFO  SearchPage -Enter destination city as Chicago
+09:41:22.479 INFO  SearchPage -Enter departure date as 05/25/2020
+09:41:24.473 INFO  SearchPage -Enter return date as 05/31/2020
+09:56:18.477 INFO  SearchPage -Navigate to flights tab
+09:56:18.563 INFO  SearchPage -Origin text box element found
+09:56:21.352 INFO  SearchPage -Enter origin city as New York
+09:56:21.616 INFO  SearchPage -Destination text box element found
+09:56:24.719 INFO  SearchPage -Enter destination city as Chicago
+09:56:27.147 INFO  SearchPage -Enter departure date as 05/25/2020
+09:56:29.442 INFO  SearchPage -Enter return date as 05/31/2020
